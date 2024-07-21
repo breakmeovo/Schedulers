@@ -6,7 +6,7 @@
 //
 
 import CoreML
-import RandomGenerator
+import RandomGeneratorAi
 
 /// A scheduler used to compute a de-noised image
 ///

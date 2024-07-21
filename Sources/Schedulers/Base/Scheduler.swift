@@ -7,7 +7,7 @@
 
 import CoreML
 import Accelerate
-import RandomGenerator
+import RandomGeneratorAi
 
 public protocol Scheduler {
     /// Number of diffusion steps performed during training
