@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SchedulersAi'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'This is SchedulersAi'
   s.description      = <<-DESC
                        SchedulersAi by https://github.com/GuernikaCore/Schedulers
@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '16.0'
   s.swift_version    = '5.0'
   s.source_files     = 'Sources/**/*'
-  s.dependency 'RandomGeneratorAi', '~> 1.0.0'
+  s.dependency 'RandomGeneratorAi', '~> 1.0.1'
 end
