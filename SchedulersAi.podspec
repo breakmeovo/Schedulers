@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                        DESC
   s.homepage         = 'https://github.com/GuernikaCore/Schedulers'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Your Name' => 'your_email@example.com' }
+  s.author           = { 'breakmeovo' => 'breakmeovo@gmail.com' }
   s.source           = { :git => 'https://github.com/breakmeovo/Schedulers.git', :tag => s.version.to_s }
   s.ios.deployment_target = '16.0'
   s.swift_version    = '5.0'
